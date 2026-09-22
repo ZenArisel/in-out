@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการรายรับรายจ่าย",
+  "description": "เว็บแอปพลิเคชันจัดการรายรับรายจ่าย สรุปผลรายเดือนและสร้างภาพวิเคราะห์ข้อมูลทางการเงิน พร้อมระบบจัดเก็บข้อมูลและจัดการงบประมาณ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
